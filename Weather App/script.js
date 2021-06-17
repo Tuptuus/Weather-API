@@ -1,7 +1,7 @@
 const input = document.querySelector('input');
 
 const apiLink = "https://api.openweathermap.org/data/2.5/weather?q=";
-const apiKey = "&lang=pl&APPID=16847f8fbc0e8e0bcde24efbf66d3ec2";
+const apiKey = "API_KEY";
 const units = "&units=metric";
 
 let city;
